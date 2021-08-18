@@ -38,8 +38,24 @@
 		"clue":"a food"
 	},
 	{
-		"word":"",
-		"clue":"a city"
+		"word":"sunglasses",
+		"clue":"you wear it in summer"
+	},
+	{
+		"word":"lion",
+		"clue":"a animal"
+	},
+	{
+		"word":"boat",
+		"clue":"a transport mode"
+	},
+	{
+		"word":"diamond",
+		"clue":"minecraft"
+	},
+	{
+		"word":"finger",
+		"clue":"hand"
 	}
 	
 ]
