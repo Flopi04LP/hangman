@@ -1,7 +1,7 @@
 html, body {
 	margin: 0;
 	padding: 0;
-  background-color:#ffffff;
+  background-color:#000000;
 	  font-family: Arial, Helvetica, sans-serif;
 	    }
 
@@ -21,7 +21,7 @@ html, body {
  height:400px;
  position:relative;
  overflow:hidden;
- background-color:black;
+ background-color:#1c2b6b;
 }
 
 .spacer{height:30px;}
