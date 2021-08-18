@@ -1,479 +1,491 @@
-{"wordlist":[
+type or paste y{"wordlist":[
   
-    {"word": "Afghanistan", "code": "AF"
+	{"word": "afghanistan", "code": "af"
     },
-    {"word": "Åland Islands", "code": "AX"
+    {"word": "åland islands", "code": "ax"
     },
-    {"word": "Albania", "code": "AL"
+    {"word": "albania", "code": "al"
     },
-    {"word": "Algeria", "code": "DZ"
+    {"word": "algeria", "code": "dz"
     },
-   
-    {"word": "AndorrA", "code": "AD"
+    {"word": "american samoa", "code": "as"
     },
-    {"word": "Angola", "code": "AO"
+    {"word": "andorra", "code": "ad"
     },
-    {"word": "Anguilla", "code": "AI"
+    {"word": "angola", "code": "ao"
     },
-    {"word": "Antarctica", "code": "AQ"
+    {"word": "anguilla", "code": "ai"
     },
-   
-    {"word": "Argentina", "code": "AR"
+    {"word": "antarctica", "code": "aq"
     },
-    {"word": "Armenia", "code": "AM"
+    {"word": "antigua and barbuda", "code": "ag"
     },
-    {"word": "Aruba", "code": "AW"
+    {"word": "argentina", "code": "ar"
     },
-    {"word": "Australia", "code": "AU"
+    {"word": "armenia", "code": "am"
     },
-    {"word": "Austria", "code": "AT"
+    {"word": "aruba", "code": "aw"
     },
-    {"word": "Azerbaijan", "code": "AZ"
+    {"word": "australia", "code": "au"
     },
-    {"word": "Bahamas", "code": "BS"
+    {"word": "austria", "code": "at"
     },
-    {"word": "Bahrain", "code": "BH"
+    {"word": "azerbaijan", "code": "az"
     },
-    {"word": "Bangladesh", "code": "BD"
+    {"word": "bahamas", "code": "bs"
     },
-    {"word": "Barbados", "code": "BB"
+    {"word": "bahrain", "code": "bh"
     },
-    {"word": "Belarus", "code": "BY"
+    {"word": "bangladesh", "code": "bd"
     },
-    {"word": "Belgium", "code": "BE"
+    {"word": "barbados", "code": "bb"
     },
-    {"word": "Belize", "code": "BZ"
+    {"word": "belarus", "code": "by"
     },
-    {"word": "Benin", "code": "BJ"
+    {"word": "belgium", "code": "be"
     },
-    {"word": "Bermuda", "code": "BM"
+    {"word": "belize", "code": "bz"
     },
-    {"word": "Bhutan", "code": "BT"
+    {"word": "benin", "code": "bj"
     },
-    {"word": "Bolivia", "code": "BO"
+    {"word": "bermuda", "code": "bm"
     },
-    
-    {"word": "Botswana", "code": "BW"
+    {"word": "bhutan", "code": "bt"
     },
-    {"word": "Bouvet Island", "code": "BV"
+    {"word": "bolivia", "code": "bo"
     },
-    {"word": "Brazil", "code": "BR"
+    {"word": "bosnia and herzegovina", "code": "ba"
     },
-   
-  
-    {"word": "Bulgaria", "code": "BG"
+    {"word": "botswana", "code": "bw"
     },
-    
-    {"word": "Burundi", "code": "BI"
+    {"word": "bouvet island", "code": "bv"
     },
-    {"word": "Cambodia", "code": "KH"
+    {"word": "brazil", "code": "br"
     },
-    {"word": "Cameroon", "code": "CM"
+    {"word": "british indian ocean territory", "code": "io"
     },
-    {"word": "Canada", "code": "CA"
+    {"word": "brunei darussalam", "code": "bn"
     },
-    {"word": "Cape Verde", "code": "CV"
+    {"word": "bulgaria", "code": "bg"
     },
-  
-    
-    {"word": "Chad", "code": "TD"
+    {"word": "burkina faso", "code": "bf"
     },
-    {"word": "Chile", "code": "CL"
+    {"word": "burundi", "code": "bi"
     },
-    {"word": "China", "code": "CN"
+    {"word": "cambodia", "code": "kh"
     },
-   
-    {"word": "Colombia", "code": "CO"
+    {"word": "cameroon", "code": "cm"
     },
-    {"word": "Comoros", "code": "KM"
+    {"word": "canada", "code": "ca"
     },
-    {"word": "Congo", "code": "CG"
+    {"word": "cape verde", "code": "cv"
     },
-   
-    {"word": "Cook Islands", "code": "CK"
+    {"word": "cayman islands", "code": "ky"
     },
-    {"word": "Costa Rica", "code": "CR"
+    {"word": "central african republic", "code": "cf"
     },
-    {"word": "Cote D\"Ivoire", "code": "CI"
+    {"word": "chad", "code": "td"
     },
-    {"word": "Croatia", "code": "HR"
+    {"word": "chile", "code": "cl"
     },
-    {"word": "Cuba", "code": "CU"
+    {"word": "china", "code": "cn"
     },
-    {"word": "Cyprus", "code": "CY"
+    {"word": "christmas island", "code": "cx"
     },
-    {"word": "Czech Republic", "code": "CZ"
+    {"word": "cocos (keeling) islands", "code": "cc"
     },
-    {"word": "Denmark", "code": "DK"
+    {"word": "colombia", "code": "co"
     },
-    {"word": "Djibouti", "code": "DJ"
+    {"word": "comoros", "code": "km"
     },
-    {"word": "Dominica", "code": "DM"
+    {"word": "congo", "code": "cg"
     },
-    {"word": "Dominican Republic", "code": "DO"
+    {"word": "congo, the democratic republic of the", "code": "cd"
     },
-    {"word": "Ecuador", "code": "EC"
+    {"word": "cook islands", "code": "ck"
     },
-    {"word": "Egypt", "code": "EG"
+    {"word": "costa rica", "code": "cr"
     },
-    {"word": "El Salvador", "code": "SV"
+    {"word": "cote d\"ivoire", "code": "ci"
     },
-    {"word": "Equatorial Guinea", "code": "GQ"
+    {"word": "croatia", "code": "hr"
     },
-    {"word": "Eritrea", "code": "ER"
+    {"word": "cuba", "code": "cu"
     },
-    {"word": "Estonia", "code": "EE"
+    {"word": "cyprus", "code": "cy"
     },
-    {"word": "Ethiopia", "code": "ET"
+    {"word": "czech republic", "code": "cz"
     },
-    {"word": "Falkland Islands (Malvinas)", "code": "FK"
+    {"word": "denmark", "code": "dk"
     },
-    {"word": "Faroe Islands", "code": "FO"
+    {"word": "djibouti", "code": "dj"
     },
-    {"word": "Fiji", "code": "FJ"
+    {"word": "dominica", "code": "dm"
     },
-    {"word": "Finland", "code": "FI"
+    {"word": "dominican republic", "code": "do"
     },
-    {"word": "France", "code": "FR"
+    {"word": "ecuador", "code": "ec"
     },
-    {"word": "French Guiana", "code": "GF"
+    {"word": "egypt", "code": "eg"
     },
-    {"word": "French Polynesia", "code": "PF"
+    {"word": "el salvador", "code": "sv"
     },
-    {"word": "French Southern Territories", "code": "TF"
+    {"word": "equatorial guinea", "code": "gq"
     },
-    {"word": "Gabon", "code": "GA"
+    {"word": "eritrea", "code": "er"
     },
-    {"word": "Gambia", "code": "GM"
+    {"word": "estonia", "code": "ee"
     },
-    {"word": "Georgia", "code": "GE"
+    {"word": "ethiopia", "code": "et"
     },
-    {"word": "Germany", "code": "DE"
+    {"word": "falkland islands (malvinas)", "code": "fk"
     },
-    {"word": "Ghana", "code": "GH"
+    {"word": "faroe islands", "code": "fo"
     },
-    {"word": "Gibraltar", "code": "GI"
+    {"word": "fiji", "code": "fj"
     },
-    {"word": "Greece", "code": "GR"
+    {"word": "finland", "code": "fi"
     },
-    {"word": "Greenland", "code": "GL"
+    {"word": "france", "code": "fr"
     },
-    {"word": "Grenada", "code": "GD"
+    {"word": "french guiana", "code": "gf"
     },
-    {"word": "Guadeloupe", "code": "GP"
+    {"word": "french polynesia", "code": "pf"
     },
-    {"word": "Guam", "code": "GU"
+    {"word": "french southern territories", "code": "tf"
     },
-    {"word": "Guatemala", "code": "GT"
+    {"word": "gabon", "code": "ga"
     },
-    {"word": "Guernsey", "code": "GG"
+    {"word": "gambia", "code": "gm"
     },
-    {"word": "Guinea", "code": "GN"
+    {"word": "georgia", "code": "ge"
     },
-    {"word": "Guinea-Bissau", "code": "GW"
+    {"word": "germany", "code": "de"
     },
-    {"word": "Guyana", "code": "GY"
+    {"word": "ghana", "code": "gh"
     },
-    {"word": "Haiti", "code": "HT"
+    {"word": "gibraltar", "code": "gi"
     },
-    {"word": "Heard Island and Mcdonald Islands", "code": "HM"
+    {"word": "greece", "code": "gr"
     },
-    {"word": "Holy See (Vatican City State)", "code": "VA"
+    {"word": "greenland", "code": "gl"
     },
-    {"word": "Honduras", "code": "HN"
+    {"word": "grenada", "code": "gd"
     },
-    {"word": "Hong Kong", "code": "HK"
+    {"word": "guadeloupe", "code": "gp"
     },
-    {"word": "Hungary", "code": "HU"
+    {"word": "guam", "code": "gu"
     },
-    {"word": "Iceland", "code": "IS"
+    {"word": "guatemala", "code": "gt"
     },
-    {"word": "India", "code": "IN"
+    {"word": "guernsey", "code": "gg"
     },
-    {"word": "Indonesia", "code": "ID"
+    {"word": "guinea", "code": "gn"
     },
-    {"word": "Iran, Islamic Republic Of", "code": "IR"
+    {"word": "guinea-bissau", "code": "gw"
     },
-    {"word": "Iraq", "code": "IQ"
+    {"word": "guyana", "code": "gy"
     },
-    {"word": "Ireland", "code": "IE"
+    {"word": "haiti", "code": "ht"
     },
-    {"word": "Isle of Man", "code": "IM"
+    {"word": "heard island and mcdonald islands", "code": "hm"
     },
-    {"word": "Israel", "code": "IL"
+    {"word": "holy see (vatican city state)", "code": "va"
     },
-    {"word": "Italy", "code": "IT"
+    {"word": "honduras", "code": "hn"
     },
-    {"word": "Jamaica", "code": "JM"
+    {"word": "hong kong", "code": "hk"
     },
-    {"word": "Japan", "code": "JP"
+    {"word": "hungary", "code": "hu"
     },
-    {"word": "Jersey", "code": "JE"
+    {"word": "iceland", "code": "is"
     },
-    {"word": "Jordan", "code": "JO"
+    {"word": "india", "code": "in"
     },
-    {"word": "Kazakhstan", "code": "KZ"
+    {"word": "indonesia", "code": "id"
     },
-    {"word": "Kenya", "code": "KE"
+    {"word": "iran, islamic republic of", "code": "ir"
     },
-    {"word": "Kiribati", "code": "KI"
+    {"word": "iraq", "code": "iq"
     },
-    {"word": "Korea, Democratic People\"S Republic of", "code": "KP"
+    {"word": "ireland", "code": "ie"
     },
-    {"word": "Korea, Republic of", "code": "KR"
+    {"word": "isle of man", "code": "im"
     },
-    {"word": "Kuwait", "code": "KW"
+    {"word": "israel", "code": "il"
     },
-    {"word": "Kyrgyzstan", "code": "KG"
+    {"word": "italy", "code": "it"
     },
-    {"word": "Lao People\"S Democratic Republic", "code": "LA"
+    {"word": "jamaica", "code": "jm"
     },
-    {"word": "Latvia", "code": "LV"
+    {"word": "japan", "code": "jp"
     },
-    {"word": "Lebanon", "code": "LB"
+    {"word": "jersey", "code": "je"
     },
-    {"word": "Lesotho", "code": "LS"
+    {"word": "jordan", "code": "jo"
     },
-    {"word": "Liberia", "code": "LR"
+    {"word": "kazakhstan", "code": "kz"
     },
-    {"word": "Libyan Arab Jamahiriya", "code": "LY"
+    {"word": "kenya", "code": "ke"
     },
-    {"word": "Liechtenstein", "code": "LI"
+    {"word": "kiribati", "code": "ki"
     },
-    {"word": "Lithuania", "code": "LT"
+    {"word": "korea, democratic people\"s republic of", "code": "kp"
     },
-    {"word": "Luxembourg", "code": "LU"
+    {"word": "korea, republic of", "code": "kr"
     },
-    {"word": "Macao", "code": "MO"
+    {"word": "kuwait", "code": "kw"
     },
-    {"word": "Macedonia, The Former Yugoslav Republic of", "code": "MK"
+    {"word": "kyrgyzstan", "code": "kg"
     },
-    {"word": "Madagascar", "code": "MG"
+    {"word": "lao people\"s democratic republic", "code": "la"
     },
-    {"word": "Malawi", "code": "MW"
+    {"word": "latvia", "code": "lv"
     },
-    {"word": "Malaysia", "code": "MY"
+    {"word": "lebanon", "code": "lb"
     },
-    {"word": "Maldives", "code": "MV"
+    {"word": "lesotho", "code": "ls"
     },
-    {"word": "Mali", "code": "ML"
+    {"word": "liberia", "code": "lr"
     },
-    {"word": "Malta", "code": "MT"
+    {"word": "libyan arab jamahiriya", "code": "ly"
     },
-    {"word": "Marshall Islands", "code": "MH"
+    {"word": "liechtenstein", "code": "li"
     },
-    {"word": "Martinique", "code": "MQ"
+    {"word": "lithuania", "code": "lt"
     },
-    {"word": "Mauritania", "code": "MR"
+    {"word": "luxembourg", "code": "lu"
     },
-    {"word": "Mauritius", "code": "MU"
+    {"word": "macao", "code": "mo"
     },
-    {"word": "Mayotte", "code": "YT"
+    {"word": "macedonia, the former yugoslav republic of", "code": "mk"
     },
-    {"word": "Mexico", "code": "MX"
+    {"word": "madagascar", "code": "mg"
     },
-    {"word": "Micronesia, Federated States of", "code": "FM"
+    {"word": "malawi", "code": "mw"
     },
-    {"word": "Moldova, Republic of", "code": "MD"
+    {"word": "malaysia", "code": "my"
     },
-    {"word": "Monaco", "code": "MC"
+    {"word": "maldives", "code": "mv"
     },
-    {"word": "Mongolia", "code": "MN"
+    {"word": "mali", "code": "ml"
     },
-    {"word": "Montserrat", "code": "MS"
+    {"word": "malta", "code": "mt"
     },
-    {"word": "Morocco", "code": "MA"
+    {"word": "marshall islands", "code": "mh"
     },
-    {"word": "Mozambique", "code": "MZ"
+    {"word": "martinique", "code": "mq"
     },
-    {"word": "Myanmar", "code": "MM"
+    {"word": "mauritania", "code": "mr"
     },
-    {"word": "Namibia", "code": "NA"
+    {"word": "mauritius", "code": "mu"
     },
-    {"word": "Nauru", "code": "NR"
+    {"word": "mayotte", "code": "yt"
     },
-    {"word": "Nepal", "code": "NP"
+    {"word": "mexico", "code": "mx"
     },
-    {"word": "Netherlands", "code": "NL"
+    {"word": "micronesia, federated states of", "code": "fm"
     },
-    {"word": "Netherlands Antilles", "code": "AN"
+    {"word": "moldova, republic of", "code": "md"
     },
-    {"word": "New Caledonia", "code": "NC"
+    {"word": "monaco", "code": "mc"
     },
-    {"word": "New Zealand", "code": "NZ"
+    {"word": "mongolia", "code": "mn"
     },
-    {"word": "Nicaragua", "code": "NI"
+    {"word": "montserrat", "code": "ms"
     },
-    {"word": "Niger", "code": "NE"
+    {"word": "morocco", "code": "ma"
     },
-    {"word": "Nigeria", "code": "NG"
+    {"word": "mozambique", "code": "mz"
     },
-    {"word": "Niue", "code": "NU"
+    {"word": "myanmar", "code": "mm"
     },
-    {"word": "Norfolk Island", "code": "NF"
+    {"word": "namibia", "code": "na"
     },
-    {"word": "Northern Mariana Islands", "code": "MP"
+    {"word": "nauru", "code": "nr"
     },
-    {"word": "Norway", "code": "NO"
+    {"word": "nepal", "code": "np"
     },
-    {"word": "Oman", "code": "OM"
+    {"word": "netherlands", "code": "nl"
     },
-    {"word": "Pakistan", "code": "PK"
+    {"word": "netherlands antilles", "code": "an"
     },
-    {"word": "Palau", "code": "PW"
+    {"word": "new caledonia", "code": "nc"
     },
-    {"word": "Palestinian Territory, Occupied", "code": "PS"
+    {"word": "new zealand", "code": "nz"
     },
-    {"word": "Panama", "code": "PA"
+    {"word": "nicaragua", "code": "ni"
     },
-    {"word": "Papua New Guinea", "code": "PG"
+    {"word": "niger", "code": "ne"
     },
-    {"word": "Paraguay", "code": "PY"
+    {"word": "nigeria", "code": "ng"
     },
-    {"word": "Peru", "code": "PE"
+    {"word": "niue", "code": "nu"
     },
-    {"word": "Philippines", "code": "PH"
+    {"word": "norfolk island", "code": "nf"
     },
-    {"word": "Pitcairn", "code": "PN"
+    {"word": "northern mariana islands", "code": "mp"
     },
-    {"word": "Poland", "code": "PL"
+    {"word": "norway", "code": "no"
     },
-    {"word": "Portugal", "code": "PT"
+    {"word": "oman", "code": "om"
     },
-    {"word": "Puerto Rico", "code": "PR"
+    {"word": "pakistan", "code": "pk"
     },
-    {"word": "Qatar", "code": "QA"
+    {"word": "palau", "code": "pw"
     },
-    {"word": "Reunion", "code": "RE"
+    {"word": "palestinian territory, occupied", "code": "ps"
     },
-    {"word": "Romania", "code": "RO"
+    {"word": "panama", "code": "pa"
     },
-    {"word": "Russian Federation", "code": "RU"
+    {"word": "papua new guinea", "code": "pg"
     },
-    {"word": "RWANDA", "code": "RW"
+    {"word": "paraguay", "code": "py"
     },
-    {"word": "Saint Helena", "code": "SH"
+    {"word": "peru", "code": "pe"
     },
-    {"word": "Saint Kitts and Nevis", "code": "KN"
+    {"word": "philippines", "code": "ph"
     },
-    {"word": "Saint Lucia", "code": "LC"
+    {"word": "pitcairn", "code": "pn"
     },
-    {"word": "Saint Pierre and Miquelon", "code": "PM"
+    {"word": "poland", "code": "pl"
     },
-    {"word": "Saint Vincent and the Grenadines", "code": "VC"
+    {"word": "portugal", "code": "pt"
     },
-    {"word": "Samoa", "code": "WS"
+    {"word": "puerto rico", "code": "pr"
     },
-    {"word": "San Marino", "code": "SM"
+    {"word": "qatar", "code": "qa"
     },
-    {"word": "Sao Tome and Principe", "code": "ST"
+    {"word": "reunion", "code": "re"
     },
-    {"word": "Saudi Arabia", "code": "SA"
+    {"word": "romania", "code": "ro"
     },
-    {"word": "Senegal", "code": "SN"
+    {"word": "russian federation", "code": "ru"
     },
-    {"word": "Serbia and Montenegro", "code": "CS"
+    {"word": "rwanda", "code": "rw"
     },
-    {"word": "Seychelles", "code": "SC"
+    {"word": "saint helena", "code": "sh"
     },
-    {"word": "Sierra Leone", "code": "SL"
+    {"word": "saint kitts and nevis", "code": "kn"
     },
-    {"word": "Singapore", "code": "SG"
+    {"word": "saint lucia", "code": "lc"
     },
-    {"word": "Slovakia", "code": "SK"
+    {"word": "saint pierre and miquelon", "code": "pm"
     },
-    {"word": "Slovenia", "code": "SI"
+    {"word": "saint vincent and the grenadines", "code": "vc"
     },
-    {"word": "Solomon Islands", "code": "SB"
+    {"word": "samoa", "code": "ws"
     },
-    {"word": "Somalia", "code": "SO"
+    {"word": "san marino", "code": "sm"
     },
-    {"word": "South Africa", "code": "ZA"
+    {"word": "sao tome and principe", "code": "st"
     },
-   
-    {"word": "Spain", "code": "ES"
+    {"word": "saudi arabia", "code": "sa"
     },
-    {"word": "Sri Lanka", "code": "LK"
+    {"word": "senegal", "code": "sn"
     },
-    {"word": "Sudan", "code": "SD"
+    {"word": "serbia and montenegro", "code": "cs"
     },
-    {"word": "Suriname", "code": "SR"
+    {"word": "seychelles", "code": "sc"
     },
-    {"word": "Svalbard and Jan Mayen", "code": "SJ"
+    {"word": "sierra leone", "code": "sl"
     },
-    {"word": "Swaziland", "code": "SZ"
+    {"word": "singapore", "code": "sg"
     },
-    {"word": "Sweden", "code": "SE"
+    {"word": "slovakia", "code": "sk"
     },
-    {"word": "Switzerland", "code": "CH"
+    {"word": "slovenia", "code": "si"
     },
-    {"word": "Syrian Arab Republic", "code": "SY"
+    {"word": "solomon islands", "code": "sb"
     },
-    {"word": "Taiwan, Province of China", "code": "TW"
+    {"word": "somalia", "code": "so"
     },
-    {"word": "Tajikistan", "code": "TJ"
+    {"word": "south africa", "code": "za"
     },
-    {"word": "Tanzania, United Republic of", "code": "TZ"
+    {"word": "south georgia and the south sandwich islands", "code": "gs"
     },
-    {"word": "Thailand", "code": "TH"
+    {"word": "spain", "code": "es"
     },
-    {"word": "Timor-Leste", "code": "TL"
+    {"word": "sri lanka", "code": "lk"
     },
-    {"word": "Togo", "code": "TG"
+    {"word": "sudan", "code": "sd"
     },
-    {"word": "Tokelau", "code": "TK"
+    {"word": "suriname", "code": "sr"
     },
-    {"word": "Tonga", "code": "TO"
+    {"word": "svalbard and jan mayen", "code": "sj"
     },
-    {"word": "Trinidad and Tobago", "code": "TT"
+    {"word": "swaziland", "code": "sz"
     },
-    {"word": "Tunisia", "code": "TN"
+    {"word": "sweden", "code": "se"
     },
-    {"word": "Turkey", "code": "TR"
+    {"word": "switzerland", "code": "ch"
     },
-    {"word": "Turkmenistan", "code": "TM"
+    {"word": "syrian arab republic", "code": "sy"
     },
-    {"word": "Turks and Caicos Islands", "code": "TC"
+    {"word": "taiwan, province of china", "code": "tw"
     },
-    {"word": "Tuvalu", "code": "TV"
+    {"word": "tajikistan", "code": "tj"
     },
-    {"word": "Uganda", "code": "UG"
+    {"word": "tanzania, united republic of", "code": "tz"
     },
-    {"word": "Ukraine", "code": "UA"
+    {"word": "thailand", "code": "th"
     },
-    {"word": "United Arab Emirates", "code": "AE"
+    {"word": "timor-leste", "code": "tl"
     },
-    {"word": "United Kingdom", "code": "GB"
+    {"word": "togo", "code": "tg"
     },
-    {"word": "United States", "code": "US"
+    {"word": "tokelau", "code": "tk"
     },
-   
-    {"word": "Uruguay", "code": "UY"
+    {"word": "tonga", "code": "to"
     },
-    {"word": "Uzbekistan", "code": "UZ"
+    {"word": "trinidad and tobago", "code": "tt"
     },
-    {"word": "Vanuatu", "code": "VU"
+    {"word": "tunisia", "code": "tn"
     },
-    {"word": "Venezuela", "code": "VE"
+    {"word": "turkey", "code": "tr"
     },
-    {"word": "Viet Nam", "code": "VN"
+    {"word": "turkmenistan", "code": "tm"
     },
-    {"word": "Virgin Islands, British", "code": "VG"
+    {"word": "turks and caicos islands", "code": "tc"
     },
-    {"word": "Virgin Islands, U.S.", "code": "VI"
+    {"word": "tuvalu", "code": "tv"
     },
-    {"word": "Wallis and Futuna", "code": "WF"
+    {"word": "uganda", "code": "ug"
     },
-    {"word": "Western Sahara", "code": "EH"
+    {"word": "ukraine", "code": "ua"
     },
-    {"word": "Yemen", "code": "YE"
+    {"word": "united arab emirates", "code": "ae"
     },
-    {"word": "Zambia", "code": "ZM"
+    {"word": "united kingdom", "code": "gb"
     },
-    {"word": "Zimbabwe", "code": "ZW"
+    {"word": "united states", "code": "us"
+    },
+    {"word": "united states minor outlying islands", "code": "um"
+    },
+    {"word": "uruguay", "code": "uy"
+    },
+    {"word": "uzbekistan", "code": "uz"
+    },
+    {"word": "vanuatu", "code": "vu"
+    },
+    {"word": "venezuela", "code": "ve"
+    },
+    {"word": "viet nam", "code": "vn"
+    },
+    {"word": "virgin islands, british", "code": "vg"
+    },
+    {"word": "virgin islands, u.s.", "code": "vi"
+    },
+    {"word": "wallis and futuna", "code": "wf"
+    },
+    {"word": "western sahara", "code": "eh"
+    },
+    {"word": "yemen", "code": "ye"
+    },
+    {"word": "zambia", "code": "zm"
+    },
+    {"word": "zimbabwe", "code": "zw"
     }
 	
 ]
 }
-
- 
