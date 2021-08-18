@@ -14,7 +14,7 @@ $(document).ready(function () {
 		for(i=0;i<data.wordlist.length;i++){ 
 			questionBank[i]=new Array;
 			questionBank[i][0]=data.wordlist[i].word;
-			questionBank[i][1]=data.wordlist[i].clue;
+			questionBank[i][1]=data.wordlist[i].code;
 		}
 		titleScreen();
 		})//gtjson
