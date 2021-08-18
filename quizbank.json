@@ -8,8 +8,7 @@
     },
     {"word": "Algeria", "code": "DZ"
     },
-    {"word": "American Samoa", "code": "AS"
-    },
+   
     {"word": "AndorrA", "code": "AD"
     },
     {"word": "Angola", "code": "AO"
@@ -18,8 +17,7 @@
     },
     {"word": "Antarctica", "code": "AQ"
     },
-    {"word": "Antigua and Barbuda", "code": "AG"
-    },
+   
     {"word": "Argentina", "code": "AR"
     },
     {"word": "Armenia", "code": "AM"
@@ -54,22 +52,18 @@
     },
     {"word": "Bolivia", "code": "BO"
     },
-    {"word": "Bosnia and Herzegovina", "code": "BA"
-    },
+    
     {"word": "Botswana", "code": "BW"
     },
     {"word": "Bouvet Island", "code": "BV"
     },
     {"word": "Brazil", "code": "BR"
     },
-    {"word": "British Indian Ocean Territory", "code": "IO"
-    },
-    {"word": "Brunei Darussalam", "code": "BN"
-    },
+   
+  
     {"word": "Bulgaria", "code": "BG"
     },
-    {"word": "Burkina Faso", "code": "BF"
-    },
+    
     {"word": "Burundi", "code": "BI"
     },
     {"word": "Cambodia", "code": "KH"
@@ -80,28 +74,22 @@
     },
     {"word": "Cape Verde", "code": "CV"
     },
-    {"word": "Cayman Islands", "code": "KY"
-    },
-    {"word": "Central African Republic", "code": "CF"
-    },
+  
+    
     {"word": "Chad", "code": "TD"
     },
     {"word": "Chile", "code": "CL"
     },
     {"word": "China", "code": "CN"
     },
-    {"word": "Christmas Island", "code": "CX"
-    },
-    {"word": "Cocos (Keeling) Islands", "code": "CC"
-    },
+   
     {"word": "Colombia", "code": "CO"
     },
     {"word": "Comoros", "code": "KM"
     },
     {"word": "Congo", "code": "CG"
     },
-    {"word": "Congo, The Democratic Republic of the", "code": "CD"
-    },
+   
     {"word": "Cook Islands", "code": "CK"
     },
     {"word": "Costa Rica", "code": "CR"
@@ -402,8 +390,7 @@
     },
     {"word": "South Africa", "code": "ZA"
     },
-    {"word": "South Georgia and the South Sandwich Islands", "code": "GS"
-    },
+   
     {"word": "Spain", "code": "ES"
     },
     {"word": "Sri Lanka", "code": "LK"
@@ -460,8 +447,7 @@
     },
     {"word": "United States", "code": "US"
     },
-    {"word": "United States Minor Outlying Islands", "code": "UM"
-    },
+   
     {"word": "Uruguay", "code": "UY"
     },
     {"word": "Uzbekistan", "code": "UZ"
